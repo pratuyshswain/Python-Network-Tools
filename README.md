@@ -27,7 +27,17 @@ Ensure you have Python installed. Clone this repository or download the files di
 
 ```bash
 # Clone the repository
-git clone [https://github.com/pratuyshswain/Python-Network-Tools.git](https://github.com/pratuyshswain/Python-Network-Tools.git)
+git clone https://github.com/pratuyshswain/Python-Network-Tools.git
 
 # Navigate to the directory
 cd Python-Network-Tools
+
+```
+
+## Safety and limitations
+
+Use network diagnostics only on systems you own or have explicit permission to test. The Caesar cipher is an educational example, not secure encryption. Password composition checks alone do not establish password strength. Do not enter real passwords into demonstration scripts.
+
+## License
+
+A formal license is pending ownership review.
